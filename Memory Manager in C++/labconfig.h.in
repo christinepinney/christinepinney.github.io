@@ -1,0 +1,3 @@
+// the configured options and settings
+#define lab_VERSION_MAJOR @lab_VERSION_MAJOR@
+#define lab_VERSION_MINOR @lab_VERSION_MINOR@
